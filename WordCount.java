@@ -1,5 +1,7 @@
 import java.util.HashMap;
 
+/** author : Mohamed Elmaghraby **/
+
 public class WordCount {
 
 	public static void main(String[] args) {
@@ -34,7 +36,8 @@ public class WordCount {
 		}
     
     // display data as a wordcount app 
-		map.forEach((key, value) -> System.out.println("(" + key + " , " + value + ")"));
+		
+    map.forEach((key, value) -> System.out.println("(" + key + " , " + value + ")"));
 
 	}
 
