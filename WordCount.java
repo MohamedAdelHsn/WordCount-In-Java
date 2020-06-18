@@ -6,7 +6,7 @@ public class WordCount {
 
 	public static void main(String[] args) {
 
-	  // data source that will be matched to count the words
+     // data source that will be matched to count the words
     
     String src = "Combined with the below initiative or implemented separately, "
 	+ "developing self-service access and reporting to your data is something that can free up your IT and analytics staff. "
