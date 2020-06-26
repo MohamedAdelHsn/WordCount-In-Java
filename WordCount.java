@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-/** author : Mohamed Elmaghraby **/
+/** @author : Mohamed Elmaghraby **/
 
 public class WordCount {
 
